@@ -1,0 +1,5 @@
+var miVariable= "Javier González de Vega";
+var miVariable= 44;
+var miVariable= 7;
+var miVariable= 9.8;
+var miVariable= [1,3,5]
